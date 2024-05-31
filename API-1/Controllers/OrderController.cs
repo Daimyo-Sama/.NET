@@ -1,4 +1,12 @@
-﻿using API_1.Data;
+﻿/*
+ * Auteurs: Mohamed Ali Bachar et Wasim Bessaou
+ * Fichier: OrderController.cs
+ * Projet: API_1
+ * Date de création: 2024-05-31
+ * Description: Ce fichier contient le contrôleur OrderController qui gère les opérations CRUD pour les commandes.
+ */
+
+using API_1.Data;
 using API_1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

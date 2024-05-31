@@ -1,3 +1,12 @@
+/*
+ * Auteurs: Mohamed Ali Bachar et Wasim Bessaou
+ * Fichier: Program.cs
+ * Projet: API_1
+ * Date de création: 2024-05-31
+ * Description: Ce programme initialise et configure l'application web, configure les services,
+ *              le middleware et les routes, et exécute l'application.
+ */
+
 using API_1.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;

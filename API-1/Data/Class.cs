@@ -1,4 +1,12 @@
-﻿using API_1.Models;
+﻿/*
+ * Auteurs: Mohamed Ali Bachar et Wasim Bessaou
+ * Fichier: Class.cs
+ * Projet: API_1
+ * Date de création: 2024-05-31
+ * Description: Ce fichier contient la classe DataContext qui permet de gérer la connexion à la base de données.
+ */
+
+using API_1.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace API_1.Data

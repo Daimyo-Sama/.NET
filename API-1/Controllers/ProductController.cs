@@ -1,4 +1,13 @@
-﻿using API_1.Data;
+﻿/*
+ * Auteurs: Mohamed Ali Bachar et Wasim Bessaou
+ * Fichier: ProductController.cs
+ * Projet: API_1
+ * Date de création: 2024-05-31
+ * Description: Ce contrôleur fournit des points de terminaison pour gérer les produits,
+ *              y compris la création, la lecture, la mise à jour et la suppression des produits.
+ */
+
+using API_1.Data;
 using API_1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
